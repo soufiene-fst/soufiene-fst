@@ -1,18 +1,19 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Soufiene</h1>
 <h3 align="center">A passionate ML/DL research engineer from Tunisia</h3>
-(img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif")
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 - 🔭 I’m currently working on **Computer Vision projects**
 
 - 💬 Ask me about **Deep Learning and Computer Vision**
 
-- 📫 How to reach me **soufiene.yacoubi@etudiant-fst.utm.tn**
+- 📫 How to reach me <a href="mailto:soufiene.yacoubi@etudiant-fst.utm.tn"> <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" height="30"> </a>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pI9O1Ru2uvQxbm7dAkcpV3KqAz-5RrDa/view?usp=sharing](https://drive.google.com/file/d/1pI9O1Ru2uvQxbm7dAkcpV3KqAz-5RrDa/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+- 📄 Know about my experiences [<a href="https://drive.google.com/file/d/1pI9O1Ru2uvQxbm7dAkcpV3KqAz-5RrDa/view?usp=sharing"> <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" height="30"> </a></h3>)
+
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/soufieneyaacoubi/"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30" height="30"> </a></h3>
+
 <p align="left">
 </p>
 
