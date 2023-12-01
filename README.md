@@ -3,7 +3,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
-- 🔭 I’m currently working on **Computer Vision projects**
+- 🔭 I’m currently working on
+ * [Computer Vision](https://github.com/soufiene-fst/OpenCV-Projects) 👁️👁️🤖📷
+ * [Machine Learning](https://github.com/soufiene-fst/Machine-and-Deep-Learning-Projects) 🧠💻🤖📈
+ * [Natural Language Processing](https://github.com/soufiene-fst/NLP-Projects) 🗣️💬📊🤖
+
 
 - 💬 Ask me about **Deep Learning and Computer Vision**
 
